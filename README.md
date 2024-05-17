@@ -4,10 +4,10 @@
 This repository contains an analysis of factors influencing cancer patient survival using mixed models. It includes a detailed examination of the CWsample dataset, exploring various predictors of patient survival, and a proposed trial design and sample size analysis for evaluating a public health intervention.
 
 ## Project Structure
-
+ ## Mixed Models Report
 ### 1. Understanding Factors Influencing Cancer Patient Survival: A Mixed Models Approach
 
- # Mixed Models Report
+
 
 
 #### Introduction
@@ -24,10 +24,9 @@ Cancer is a major global health issue that makes diagnosis and treatment challen
 #### Discussion
 
 The analysis shows that the average age at death for patients is about 52.6 years. There is a positive correlation between age at diagnosis and age at death. The hospital site significantly affects this relationship. High Quality of Life also has an impact on survival, highlighting the need for targeted interventions.
-
+ ## Mixed Models with Medical Applications Report
 ### 2. Assessing the Impact of a Public Health Intervention on Cancer Patients: A Trial Design and Sample Size Analysis
 
-**Mixed Models with Medical Applications Report**
 
 
 
